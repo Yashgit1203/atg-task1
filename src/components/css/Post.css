@@ -1,0 +1,31 @@
+@media (max-width:600px) {
+    .card-title{
+        font-size: 18px;
+    }
+    .post-desc,.c-type{
+        font-size: 14px;
+    }
+    .prof_des{
+        font-size: 10px !important;
+        width: 170px;
+    }
+    .prof_name{
+        font-size: 14px;
+        position: absolute;
+        bottom: 12%;
+        left: 19%;
+    }
+    .card{
+        position: relative;
+    }
+    .p-views{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        bottom: 5%;
+        left: 14%;
+        font-size: 14px;
+        width: 5rem;
+    }
+}

@@ -1,0 +1,33 @@
+.trans {
+    background-color: #fff !important;
+    color: #8a8a8a !important;
+    padding: 0.5rem !important;
+  }
+  
+  .modal-dialog {
+    max-width: 150%;
+    margin: 1.75rem auto;
+  }
+  .modal-title{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+  .modal-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0.3rem;
+    outline: 0;
+  }
+
+  
